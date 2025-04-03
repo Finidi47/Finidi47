@@ -1,5 +1,15 @@
 ## Hi there 👋
+My name is Said Chigamba, a cloud support engineer ☁️ 🚀
 
+- 🔭 Currently, I am enhancing my expertise in cloud technologies through the AWS Cloud Computing program at ALX.
+
+- 🌱 I'm looking forward to take on new challenges and make a meaningful impact in the cloud computing space as I continue to learn and grow.
+
+
+## 📫 Let's Connect!
+[Linkedin](https://www.linkedin.com/in/said-hamisi/)
+
+[Email](mailto:finidisaid@gmail.com)
 <!--
 **Finidi47/Finidi47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
